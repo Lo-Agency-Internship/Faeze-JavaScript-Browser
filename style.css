@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 2%;
+    display: grid;
+    place-items: center;
+  }
+  .new{
+   padding:2% 3%;
+    text-align: center;
+  }
+  #color{
+    padding: 8%;
+  }
+ 
